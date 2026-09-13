@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wireframes y Prototipo/Diagrama de Navegación.md",
+                "file": "Diagrama de Procesos/Diagramas de Procesos Preliminares.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diagrama de Navegación"
+              "title": "Diagramas de Procesos Preliminares"
             }
           }
         ],
@@ -202,11 +202,12 @@
   },
   "active": "7d8499cc58f5104d",
   "lastOpenFiles": [
-    "Especificación de Requisitos/Épicas/Definition of Done.md",
-    "Wireframes y Prototipo/Diagrama de Navegación.md",
-    "Wireframes y Prototipo/Especificación de pantallas del canal.md",
-    "Wireframes y Prototipo",
+    "Diagrama de Procesos/diagramas-procesos-preliminares-v2(1).md",
     "Diagrama de Procesos/Diagramas de Procesos Preliminares.md",
+    "Wireframes y Prototipo/Especificación de pantallas del canal.md",
+    "Wireframes y Prototipo/Diagrama de Navegación.md",
+    "Especificación de Requisitos/Épicas/Definition of Done.md",
+    "Wireframes y Prototipo",
     "Especificación de Requisitos/Épicas/7. EP-SNT - Sistema de Notificaciones por Correo del Pedido al Cliente/Historias de Usuario/SNT-TMP - Diseño de Plantillas de Correo Transaccionales y Recomendaciones de Productos.md",
     "Especificación de Requisitos/Épicas/5. EP-TRX - Transacción y Realización de Checkout/Historias de Usuario/TRX-DIR - Captura de Datos de Envío y Dirección de Entrega.md",
     "Especificación de Requisitos/Épicas/5. EP-TRX - Transacción y Realización de Checkout/Historias de Usuario/TRX-PAG - Simulación de Pago con Tarjeta y Revalidación de Inventario.md",
@@ -233,7 +234,6 @@
     "Declaración de Arquitectura/Sin título.md",
     "Especificación de Requisitos/Épicas/1. GAC - Gestión de Accesos/Historias de Usuario/GAC-REC - Recuperación de Contraseña.md",
     "Declaración de Arquitectura",
-    "Especificación de Requisitos/Épicas/1. GAC - Gestión de Accesos/Historias de Usuario/GAC-SES - Inicio y Cierre de Sesión del Cliente.md",
     "Especificación de Requisitos/Reglas de Negocio",
     "Especificación de Requisitos/RNF",
     "Especificación de Requisitos/Épicas/7. EP-SNT - Sistema de Notificaciones por Correo del Pedido al Cliente/Historias de Usuario",
