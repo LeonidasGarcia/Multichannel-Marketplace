@@ -35,8 +35,7 @@ flowchart TD
 
     ValidarPago -- No --> ErrorPago[Mostrar mensaje de error en el pago] --> IngresarPago
 
-    ValidarPago -- Sí --> ConfirmarOrden[Generar comprobante con número de pedido ORD-2026-XXXX]
-    ConfirmarOrden --> VaciarBolsa[Vaciar la bolsa de compras del cliente]
+    ValidarPago -- Sí --> VaciarBolsa[Vaciar la bolsa de compras del cliente]
     VaciarBolsa --> SubprocesoConfirmacion[[Subproceso: Confirmación y Recomendaciones de Catálogo]]
     SubprocesoConfirmacion --> FinCompra([Fin del Proceso de Compra])
 ```
