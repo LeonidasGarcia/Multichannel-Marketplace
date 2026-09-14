@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diagrama de Procesos/Diagramas de Procesos Preliminares.md",
+                "file": "Arquitectura de la Aplicación/Modelo C4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diagramas de Procesos Preliminares"
+              "title": "Modelo C4"
             }
           }
         ],
@@ -114,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Arquitectura de la Aplicación/Modelo C4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,12 +183,12 @@
               "title": "Esquema"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,8 +203,16 @@
   },
   "active": "7d8499cc58f5104d",
   "lastOpenFiles": [
-    "Diagrama de Procesos/diagramas-procesos-preliminares-v2(1).md",
+    "Arquitectura de la Aplicación/Arquitectura.md",
+    "Arquitectura de la Aplicación/Modelo C4.md",
+    "Arquitectura de la Aplicación/Plan de Acción para la Transición de Mocks a APIs Reales.md",
+    "Arquitectura de la Aplicación/Esquema de Prisma (Preliminar).md",
+    "Arquitectura de la Aplicación/Contratos de Mocks API.md",
+    "Especificación de Requisitos/Trazabilidad Completa de Especificación de Requisitos.md",
+    "Especificación de Requisitos/Requisitos No Funcionales.md",
+    "Especificación de Requisitos/Matriz de Integración y Límites de Dominio.md",
     "Diagrama de Procesos/Diagramas de Procesos Preliminares.md",
+    "Diagrama de Procesos/diagramas-procesos-preliminares-v2(1).md",
     "Wireframes y Prototipo/Especificación de pantallas del canal.md",
     "Wireframes y Prototipo/Diagrama de Navegación.md",
     "Especificación de Requisitos/Épicas/Definition of Done.md",
@@ -215,15 +224,8 @@
     "Especificación de Requisitos/Épicas/4. ITC - Intención de Transacción y Carrito de Compras/Historias de Usuario/ITC-CAR - Gestión de Productos en el Carrito de Compras.md",
     "Especificación de Requisitos/Épicas/6. EP-SHP - Seguimiento e Historial de Pedidos/Historias de Usuario/SHP-TRK - Seguimiento del Estado del Envío y Progreso en Ruta.md",
     "Diagrama de Procesos",
-    "Especificación de Requisitos/Trazabilidad Completa de Especificación de Requisitos.md",
-    "Especificación de Requisitos/Requisitos No Funcionales.md",
-    "Especificación de Requisitos/Matriz de Integración y Límites de Dominio.md",
     "Especificación de Requisitos/Reglas de Negocio/Reglas de Negocio.md",
     "Especificación de Requisitos/Reglas de Negocio/Reglas de Negocio por Épica.md",
-    "Arquitectura de la Aplicación/Arquitectura.md",
-    "Arquitectura de la Aplicación/Contratos de Mocks API.md",
-    "Arquitectura de la Aplicación/Esquema de Prisma (Preliminar).md",
-    "Arquitectura de la Aplicación/Plan de Acción para la Transición de Mocks a APIs Reales.md",
     "Arquitectura de la Aplicación/schema.prisma",
     "Arquitectura de la Aplicación",
     "schema.prisma",
@@ -232,7 +234,6 @@
     "Arquitectura del Marketplace.md",
     "Especificación de Requisitos/Épicas/1. GAC - Gestión de Accesos/Descripción.md",
     "Declaración de Arquitectura/Sin título.md",
-    "Especificación de Requisitos/Épicas/1. GAC - Gestión de Accesos/Historias de Usuario/GAC-REC - Recuperación de Contraseña.md",
     "Declaración de Arquitectura",
     "Especificación de Requisitos/Reglas de Negocio",
     "Especificación de Requisitos/RNF",
